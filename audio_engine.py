@@ -31,7 +31,7 @@ class AudioEngine:
             "load": 1.0
         }
 
-        # Global cross-gesture cooldown
+        # Cross-gesture cooldown
         self.global_last_action = 0
         self.global_cooldown = 1
 
