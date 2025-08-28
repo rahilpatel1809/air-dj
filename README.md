@@ -23,5 +23,5 @@
 - Optimise audio latency for smoother mixing
 - Add a GUI for a DJ software interface like Rekordbox
 
-## Contributing:
+
 Any and all suggestions, contributions and forks are welcome.
